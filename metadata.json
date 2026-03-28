@@ -1,0 +1,5 @@
+{
+  "name": "URL-Friendly File Renamer",
+  "description": "Automatically convert file names into clean, URL-friendly slugs for easy sharing and web use.",
+  "requestFramePermissions": []
+}
